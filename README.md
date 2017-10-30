@@ -1,6 +1,6 @@
 ## Test application React-Redux
 
-Demo: [https://blu2z.github.io/react-test-app](react-test-app)
+Demo: [react-test-app](https://blu2z.github.io/react-test-app)
 
 
 ## Getting Started
