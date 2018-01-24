@@ -2,6 +2,42 @@
 
 Demo: [react-test-app](https://blu2z.github.io/react-test-app)
 
+## Description
+
+Нужно сделать страницу, где будет форма загрузки базы данных в формате JSON (пример базы прикрепляю ниже).  
+
+После загрузки нужно  сделать таблицу с тремя колонками, соответствующие полям в json файле + колонка с действиями (изменить, удалить)
+
+При нажатии на “переименовать” происходит смена содержимого строки таблицы на инпуты с уже вбитыми данными и кнопкой сохранить. 
+
+Под таблицей нужно сделать кнопку “экспорт в csv” и “экспорт в json” 
+
+Необходимо все выполнить с помощью react и redux 
+
+```json
+[
+  {
+    "candidateName":"Peter Petrov",
+    "candidateStatus":"pending",
+    "candidateNeedOffer":1800
+  },
+  {
+    "candidateName":"Ivan Ivanov",
+    "candidateStatus":"pending",
+    "candidateNeedOffer":3000
+  },
+  {
+    "candidateName":"Roman Romanov",
+    "candidateStatus":"oninterview",
+    "candidateNeedOffer":2400
+  },
+  {
+    "candidateName":"Konstantin Konstantinov",
+    "candidateStatus":"on_test_perdiod",
+    "candidateNeedOffer":3000
+  }
+]
+```
 
 ## Getting Started
 
