@@ -1,6 +1,5 @@
 ## Test application React-Redux
 [![Build Status](https://travis-ci.org/Blu2z/react-test-app.svg?branch=master)](https://travis-ci.org/Blu2z/react-test-app)
-
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a9f42de134b24267a5fe4683a8da7c14)](https://app.codacy.com/app/blu2z/react-test-app?utm_source=github.com&utm_medium=referral&utm_content=Blu2z/react-test-app&utm_campaign=badger)
 
 Demo: [react-test-app](https://blu2z.github.io/react-test-app)
