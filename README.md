@@ -5,6 +5,8 @@
 
 Demo: [react-test-app](https://blu2z.github.io/react-test-app)
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Blu2z/react-test-app/)
+
 ## Description
 
 Нужно сделать страницу, где будет форма загрузки базы данных в формате JSON (пример базы прикрепляю ниже).  
