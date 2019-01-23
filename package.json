@@ -22,11 +22,13 @@
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "cypress:open": "cypress open",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
   "homepage": "https://blu2z.github.io/react-test-app",
   "devDependencies": {
+    "cypress": "^3.1.4",
     "eslint": "^4.19.1",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-plugin-import": "^2.13.0",
