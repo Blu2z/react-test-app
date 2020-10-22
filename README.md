@@ -67,3 +67,7 @@ The build is minified and the filenames include the hashes.<br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+### `npm run cypress:open`
+
+Runs the cypress tests
+
