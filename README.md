@@ -2,6 +2,7 @@
 [![Build Status](https://travis-ci.org/Blu2z/react-test-app.svg?branch=master)](https://travis-ci.org/Blu2z/react-test-app)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a9f42de134b24267a5fe4683a8da7c14)](https://app.codacy.com/app/blu2z/react-test-app?utm_source=github.com&utm_medium=referral&utm_content=Blu2z/react-test-app&utm_campaign=badger)
 [![Dependency Status](https://david-dm.org/blu2z/react-test-app.svg)](https://david-dm.org/blu2z/react-test-app)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Blu2z_react-test-app&metric=alert_status)](https://sonarcloud.io/dashboard?id=Blu2z_react-test-app)
 
 Demo: [react-test-app](https://blu2z.github.io/react-test-app)
 
